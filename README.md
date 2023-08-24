@@ -178,10 +178,16 @@ This project was deployed using GitHub Pages. For more information about how to 
 ## <b>Authors 👥<b><a name="authors"></a>
 
 👤 **Author1**
+
+**Siddhartha Ghosh**
 - GitHub: [@siddghosh108](https://github.com/siddghosh108)
 - Twitter: [@siddharthaghos9](https://twitter.com/siddharthaghos9)
 - LinkedIn: [@siddhartha-ghosh-65902718](https://www.linkedin.com/in/siddhartha-ghosh-65902718)
 
+**Blessing Mike**
+- GitHub: [blessing-michael](https://github.com/blessing-michael)
+- Twitter: [@toonmystory](https://twitter.com/toonmystory)
+- LinkedIn: [Blessing Asuquo](https://www.linkedin.com/in/blessing-asuquo-4509981a2/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
